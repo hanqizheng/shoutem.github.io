@@ -134,6 +134,11 @@ Checking the extension code for syntax errors...
 Uploading `Restaurants` extension to Shoutem...
 Success!
 ```
+And if you entered `yes` at this step, you can jump over the install step
+```ShellSession
+? Do you want to install tom.restaurants extension to the app 8074? Yes
+Success
+```
 
 And install the extension into the Restaurants app using `shoutem install`:
 
