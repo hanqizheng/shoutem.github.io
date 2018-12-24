@@ -126,10 +126,10 @@ export default class List extends Component {
 }
 ```
 
-Now push what we've built to Shoutem with `shoutem push`:
+Now push what we've built to Shoutem with `shoutem extension publish`:
 
 ```ShellSession
-$ shoutem push
+$ shoutem extension publish
 Checking the extension code for syntax errors...
 Uploading `Restaurants` extension to Shoutem...
 Success!
